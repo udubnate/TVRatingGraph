@@ -2,6 +2,7 @@
 # pip3 install IMDbPY
 
 # need to figure out how to graph the dataset
+# going to test using Plot.ly
 
 # Test scenario. Community and The Office
 # I want to be able to graph each Season, EP0101 show the average review in a bar or line chart. 
